@@ -15,5 +15,11 @@ A web portal where citizens can submit complaints regarding public services.
 - Admin dashboard
 - Analytics dashboard
 
+
+## Start Project
+frontend - npm start
+backend - venv\Scripts\activate
+uvicorn app.main:app --reload
+
 ## Project Video
 https://drive.google.com/file/d/1Akfh1Kr6RTsRNjIWwd7IKm7o5wDVGzi5/view?usp=drivesdk
