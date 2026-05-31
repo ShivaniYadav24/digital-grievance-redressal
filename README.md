@@ -17,8 +17,8 @@ A web portal where citizens can submit complaints regarding public services.
 
 
 ## Start Project
-frontend - npm start
-backend - venv\Scripts\activate
+-frontend - npm start,
+-backend - venv\Scripts\activate
 uvicorn app.main:app --reload
 
 ## Project Video
